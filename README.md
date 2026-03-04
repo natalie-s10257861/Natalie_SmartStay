@@ -31,10 +31,10 @@ Key challenges faced by Singapore's Hospitality Industry that I've identified:
 - "tourism_receipts_qtr.csv": "https://data.gov.sg/datasets/d_248d4c6574b5ac87cd31851ed3f697d6/view"
 
 3. Run Notebooks in order
-a. Setup_and_Download.py — installs dependencies and downloads the raw data
-b. Load_and_Clean.py — loads and cleans the raw data
-c. Merge_and_Features.py — merges datasets and engineers features (creates the country profiles, lag variables)
-d. Clustering.py — runs K-Means segmentation on the tourist market data
-e. Forecasting.py — trains and evaluates the Ridge/XGBoost/ arrival forecast models
-f. Sentiment.py — runs TF-IDF vectorisation, trains classifiers, LDA topic modelling, and pain point analysis
-g. Launch_Dashboard.py — launches the final interactive dashboard 
+- Setup_and_Download.py — installs dependencies and downloads the raw data
+- Load_and_Clean.py — loads and cleans the raw data
+- Merge_and_Features.py — merges datasets and engineers features (creates the country profiles, lag variables)
+- Clustering.py — runs K-Means segmentation on the tourist market data
+- Forecasting.py — trains and evaluates the Ridge/XGBoost/ arrival forecast models
+- Sentiment.py — runs TF-IDF vectorisation, trains classifiers, LDA topic modelling, and pain point analysis
+- Launch_Dashboard.py — launches the final interactive dashboard 
