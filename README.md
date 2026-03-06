@@ -1,6 +1,6 @@
 # Project Overview
-This is a self initiated data analytics and machine learning project I've undertaken that focuses on xx. It combines hotel revenue forecasting, guest sentiment analysis and tourist market segmentation to provide actionable intelligence for Singapore's Hospitality industry.
-This project is built entirely built using Singapore-sourced data from data gov and real TripAdvisor hotel reviews from Kaggle, and addresses key industry problems through simple data analytics and machine learning
+This is a self initiated data analytics and machine learning project I've undertaken that focuses on Singapore's hospitality and tourism industry. It combines hotel revenue forecasting, guest sentiment analysis and tourist market segmentation to provide actionable intelligence for Singapore's Hospitality industry.
+This project is built entirely built using Singapore-sourced data from data gov and real TripAdvisor hotel reviews from Kaggle, and addresses key industry problems through data analytics and machine learning (Supervised and Unsupervised Learning. This repository contains the report with the full analysis as well as the code
 
 # Industry Problems
 Key challenges faced by Singapore's Hospitality Industry that I've identified:
@@ -16,7 +16,7 @@ Key challenges faced by Singapore's Hospitality Industry that I've identified:
 
 # How to run on vscode
 1. Clone and Setup
-- git clone https://github.com/YOUR_USERNAME/smartstay-sg.git
+- git clone
 - cd smartstay-sg
 - pip install -r requirements.txt
 
